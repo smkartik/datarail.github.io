@@ -23,7 +23,7 @@ You will need to install the following software on your computer.
 
 ### Anaconda
 
-Mac and Windows users can download and install the latest version from http://continuum.io/downloads 
+Mac and Windows users can download and install the latest version from http://continuum.io/downloads. 
 Windows users should check the **Make Anaconda the default Python** option.
 
 ### Datarail repositories
