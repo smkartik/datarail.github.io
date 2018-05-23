@@ -3,9 +3,9 @@
 You will need to install the following software on your computer.
 
 ### Git
-**Mac** users can download and install the latest version of git from https://sourceforge.net/projects/git-osx-installer/files/
+- **Mac** users can download and install the latest version of git from https://sourceforge.net/projects/git-osx-installer/files/
 
-**Windows** users can download the latest version of git from https://gitforwindows.org/. Then run the installer and follow the steps below:
+- **Windows** users can download the latest version of git from https://gitforwindows.org/. Then run the installer and follow the steps below:
   1. Click on "Next".
   2. Click on "Next".
   3. **Keep "Use Git from the Windows Command Prompt" selected and click on "Next".** If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
@@ -28,7 +28,7 @@ Windows users should check the **Make Anaconda the default Python** option.
 
 ### Datarail repositories
 For the upcoming Datarail tutorial (5/31/2018), we will be drawing on code from three repositoires. Follow the steps below to install these packages on your computer.
-1. Open the terminal on Mac or git bash on Windows
+1. Open the terminal on Mac or bash on Windows
 2. Type the commands below in the given order. Press `Enter` after each command.
   ```
   mkdir git_repos
