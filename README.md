@@ -29,7 +29,7 @@ Windows users should check the **Make Anaconda the default Python** option.
 ### Datarail repositories
 For the upcoming Datarail tutorial (5/31/2018), we will be drawing on code from three repositoires. Follow the steps below to install these packages on your computer.
 1. Open the terminal on Mac or bash on Windows
-2. Type the commands below in the given order. Press `Enter` after each command.
+2. Type the commands below in the given order. Press `Enter` after each command. (Or paste the whole block and press `Enter`).
   ```
   mkdir git_repos
   cd git_repos
