@@ -23,7 +23,7 @@ You will need to install the following software on your computer.
 
 ### Anaconda
 
-Mac and Windows users can download and install the latest version from http://continuum.io/downloads. 
+Mac and Windows users can download and install the latest version  of **Python 3.6** from http://continuum.io/downloads. 
 Windows users should check the **Make Anaconda the default Python** option.
 
 ### Datarail repositories
@@ -36,11 +36,8 @@ For the upcoming Datarail tutorial (5/31/2018), we will be drawing on code from 
   git clone https://github.com/datarail/datarail.git
   git clone https://github.com/datarail/DrugResponse.git
   git clone https://github.com/datarail/gr_metrics.git
-  cd datarail
-  pip install -e .
-  cd ../DrugResponse/python
-  pip install -e .
-  cd ../../gr_metrics/SRC/python
-  pip install -e .  
+  pip install -e datarail
+  pip install -e DrugResponse/python
+  pip install -e gr_metrics/SRC/python
   ```
 
