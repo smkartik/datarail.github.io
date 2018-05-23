@@ -3,9 +3,9 @@
 You will need to install the following software on your computer.
 
 ### Git
-Mac users can download and install the latest version of git from https://sourceforge.net/projects/git-osx-installer/files/
+**Mac** users can download and install the latest version of git from https://sourceforge.net/projects/git-osx-installer/files/
 
-Windows users can download the latest version of git from https://gitforwindows.org/. Then run the installer and follow the steps below:
+**Windows** users can download the latest version of git from https://gitforwindows.org/. Then run the installer and follow the steps below:
   1. Click on "Next".
   2. Click on "Next".
   3. **Keep "Use Git from the Windows Command Prompt" selected and click on "Next".** If you forgot to do this programs that you need for the workshop will not work properly. If this happens rerun the installer and select the appropriate option.
